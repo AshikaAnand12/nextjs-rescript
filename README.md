@@ -7,6 +7,7 @@
 
 ### Bug
 
+```
 src/Index.res:35:35
 
   33 ┆     | _ => Js.log("Some error")
@@ -21,3 +22,4 @@ src/Index.res:35:35
 rescript: [23/23] src/App.cmj
 FAILED: cannot make progress due to previous errors.
 >>>> Finish compiling(exit: 1)
+```
